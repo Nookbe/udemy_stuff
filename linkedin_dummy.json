@@ -1,0 +1,107 @@
+{
+    "public_identifier": "clement-delangue",
+    "profile_pic_url": "https://example.com/clement-profile.jpeg",
+    "background_cover_image_url": null,
+    "first_name": "Clement",
+    "last_name": "Delangue",
+    "full_name": "Clement Delangue",
+    "follower_count": null,
+    "occupation": "CEO at Hugging Face",
+    "headline": "CEO at Hugging Face | Leading Innovation in AI",
+    "summary": "Co-founder & CEO of Hugging Face, focused on creating the most cutting-edge AI models. Passionate about democratizing AI and improving human-AI interaction.",
+    "country": "US",
+    "country_full_name": "United States",
+    "city": "New York",
+    "state": "NY",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": null,
+            "company": "Hugging Face",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/hugging-face/",
+            "title": "CEO",
+            "description": "Leading the company's direction in natural language processing and large language models.",
+            "location": "New York, NY, USA",
+            "logo_url": "https://example.com/hugging-face-logo.jpeg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "company": "Moodstocks",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/moodstocks/",
+            "title": "Chief Operating Officer",
+            "description": "Managed operations and strategy for this image recognition startup.",
+            "location": "Paris, France",
+            "logo_url": "https://example.com/moodstocks-logo.jpeg"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2004
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2008
+            },
+            "field_of_study": "Economics",
+            "degree_name": "Master’s Degree",
+            "school": "HEC Paris",
+            "school_linkedin_profile_url": "https://www.linkedin.com/school/hec-paris/",
+            "description": "Specialized in entrepreneurship and innovation.",
+            "logo_url": "https://example.com/hec-logo.jpeg"
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Fluent"
+        },
+        {
+            "language": "French",
+            "proficiency": "Native"
+        }
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "phone_numbers": [],
+    "social_networking_services": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}
